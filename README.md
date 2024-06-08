@@ -1,16 +1,21 @@
-## Hi there 👋
+Yuli Sotnikov
+My Personal Repository
 
-<!--
-**Yulisot/Yulisot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there 👋, I'm Yuli Sotnikov 👨‍💻
 
-Here are some ideas to get you started:
+💻 About Me
+💼 I'm a full stack developer at Hilan.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🐱‍🏍 I’m currently working on developing a system for company employees to connect to customer databases.
+
+💪 I'm self-taught and continuously searching for greater challenges.
+
+🛠 Tech Stack
+🎨 Frontend: HTML5, CSS3, Bootstrap
+🧰 Languages: JavaScript, TypeScript, C#, Node.js
+🧰 Frameworks: Angular
+🛢 Databases: SQL Server, MongoDB
+⚙️ Backend: .NET Core
+⚙️ Tools & Platforms: GitHub, AWS
+🔧 IDEs: Visual Studio Code, Visual Studio
+🔧 OS: Linux, Ubuntu

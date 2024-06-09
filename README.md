@@ -23,7 +23,7 @@ Hi there 👋, I'm Yuli Sotnikov 👨‍💻
 ---
 
 ## 📈 GitHub Stats
-![Yuli's GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=radical)
+![Yuli's GitHub stats](https://github-readme-stats.vercel.app/api?username=Yulisot&show_icons=true&theme=radical)
 
 ---
 

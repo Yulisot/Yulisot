@@ -8,7 +8,7 @@ Hi there 👋, I'm Yuli Sotnikov 👨‍💻
 #💻 About Me
 💼 I'm a full stack developer at Hilan.
 
-🐱‍🏍 I’m currently working on developing a system for company employees to connect to customer databases.
+🐱‍🏍 I’m currently working on developing a system for company employees.
 
 💪 I'm self-taught and continuously searching for greater challenges.
 
